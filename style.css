@@ -1,0 +1,72 @@
+.content {
+    background-color: #f8f8f8;
+    margin: auto;
+    width: 30%;
+    padding: 20px;
+}
+.titre{
+    font-size: 2.2em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.content p{
+    font-size: 1.3em;
+    color: #8f8f8f;
+}
+.fb{
+    width: 80%;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+a.btn {
+    font-family: Lucida Grande, Helvetica Neue, Helvetica, Arial, sans-serif;
+    display: inline-block;
+    font-size: 14px;
+    padding: 13px 30px 15px 44px;
+    background: #3A5A97;
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,20,.4);
+    text-decoration: none;
+    line-height: 1;
+    position: relative;
+    border-radius: 5px;
+}
+
+.continuer {
+    display: block;
+    line-height: 30px;
+    padding: 4px 6px;
+    margin-bottom: 30px;
+    clear: both;
+}
+.continuer .has_compte {
+    float: left;
+}
+.continuer .cnt {
+    float: right;
+}
+
+.register input[type="text"],
+.register input[type="password"] {
+    max-width:400px;
+    width: 100%;
+    line-height:2.5em;
+    margin-bottom: 1em;
+    border-radius:5px;
+    border:2px solid #f2f2f2;
+    outline:none;
+}
+.ou{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+}
+
+.ou span {
+    background:#f8f8f8;
+    padding:0 10px;
+}
